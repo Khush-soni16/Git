@@ -1,0 +1,12 @@
+11 ls
+  12 ls -Force
+  13 git status
+  14  git status
+  15 git add .\testing.py
+  16 git status
+  17 git commit -m "added testing.py file"
+  18 git status
+  19 rm testing.py
+  20 git status
+  21 git restore testing.py
+  22 git status
